@@ -110,9 +110,9 @@ ul.menu-bar > li > a, ol.menu-bar > li > a {
 }
 
 ul.menu-bar > li:hover, ol.menu-bar > li:hover {
-    background-color: #CC4444;
+    background-color: #FF0000;
     /*border: 3px darkred inset;*/
-    border-radius: 8px;
+    border-radius: 6px;
 }
 
 .bottom {
