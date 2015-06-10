@@ -69,7 +69,7 @@ h4 {
 
 hr {
     clear: both;
-    color: #FF0000;
+    border-color: #FF0000;
 }
 
 input, select, textarea {
