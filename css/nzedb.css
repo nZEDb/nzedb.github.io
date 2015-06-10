@@ -77,9 +77,7 @@ input, select, textarea {
 }
 
 p, ul, ol {
-    line-height: 100%;
     margin-top: 0;
-    text-align: justify;
 }
 
 textarea {
